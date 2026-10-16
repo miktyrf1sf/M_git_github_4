@@ -1,6 +1,6 @@
 print("Git работает")
 print("Второе изменение")
-print("Изменение с GitHub")
+print("tyrf1sf Изменение с GitHub")
 print("Эта строка только в feature-test")
 print("M")
 print("Изменение сделано на GitHub")
